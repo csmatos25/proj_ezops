@@ -21,9 +21,9 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'wordpressdb');
 /** MySQL database username */
-define('DB_USER', 'csmatos');
+define('DB_USER', 'Csmatos1213');
 /** MySQL database password */
-define('DB_PASSWORD', 'csmatos');
+define('DB_PASSWORD', 'Csmatos1213');
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
 /** Database Charset to use in creating database tables. */
